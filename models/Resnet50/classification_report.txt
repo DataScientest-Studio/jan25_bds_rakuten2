@@ -1,0 +1,33 @@
+                             precision    recall  f1-score   support
+
+             Livre occasion       0.55      0.40      0.46       312
+Jeu vidéo, accessoire tech.       0.56      0.63      0.60       251
+         Accessoire Console       0.39      0.36      0.37       168
+             Console de jeu       0.54      0.75      0.63        83
+                   Figurine       0.72      0.49      0.59       267
+           Carte Collection       0.88      0.93      0.91       395
+                Jeu Plateau       0.59      0.25      0.35        77
+  Jouet enfant, déguisement       0.36      0.46      0.40       487
+             Jeu de société       0.53      0.17      0.26       207
+                 Jouet tech       0.62      0.74      0.68       504
+       Paire de chaussettes       0.45      0.51      0.48        80
+    Jeu extérieur, vêtement       0.45      0.39      0.42       249
+             Autour du bébé       0.36      0.43      0.39       324
+         Mobilier intérieur       0.60      0.52      0.55       508
+                    Chambre       0.66      0.84      0.74       430
+                    Cuisine       0.39      0.75      0.52        80
+      Décoration intérieure       0.46      0.48      0.47       500
+                     Animal       0.68      0.16      0.25        83
+         Revues et journaux       0.71      0.79      0.75       476
+   Magazines, livres et BDs       0.74      0.62      0.68       478
+               Jeu occasion       0.77      0.31      0.44       142
+   Bureautique et papeterie       0.72      0.63      0.67       499
+         Mobilier extérieur       0.39      0.40      0.39       259
+       Autour de la piscine       0.82      0.81      0.82      1021
+                  Bricolage       0.42      0.33      0.37       249
+                 Livre neuf       0.59      0.92      0.72       276
+                     Jeu PC       0.76      0.80      0.78        87
+
+                   accuracy                           0.61      8492
+                  macro avg       0.58      0.55      0.54      8492
+               weighted avg       0.61      0.61      0.60      8492
