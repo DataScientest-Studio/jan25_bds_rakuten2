@@ -1,0 +1,47 @@
+Traitement des données textuelles (NLP) 
+● SpaCy – Bibliothèque pour le traitement du langage naturel (lemmatisation, tokenisation, etc.) 
+   https://spacy.io/ 
+● NLTK (Natural Language Toolkit) – Pour les stopwords, analyse linguistique, etc. 
+   https://www.nltk.org/ 
+● CamemBERT – Modèle Transformer pour la langue française basé sur RoBERTa 
+   https://camembert-model.fr/ 
+● mBERT – BERT multilingue pour le traitement de textes en plusieurs langues 
+   https://huggingface.co/bert-base-multilingual-cased 
+● FastText – Outil de classification supervisée rapide de textes (Facebook AI) 
+   https://fasttext.cc/ 
+● TF-IDF – Technique classique de vectorisation de texte (implémentée via scikit-learn) 
+   https://scikit-learn.org/stable/modules/feature_extraction.html#text-feature-extraction 
+● Google Translate API – Pour la traduction automatique des textes 
+   https://cloud.google.com/translate/docs 
+Traitement des données images (CV) 
+● OpenCV – Traitement d’images : flou, sharpness, histogrammes de couleur, etc. 
+   https://opencv.org/ 
+● scikit-image – Alternative à OpenCV pour certaines transformations 
+   https://scikit-image.org/ 
+● TensorFlow / Keras – Chargement, normalisation et augmentation des images 
+   https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/image 
+● PyTorch + torchvision – Prétraitement et entraînement de modèles CNN 
+   https://pytorch.org/ 
+   https://pytorch.org/vision/ 
+● ResNet (Residual Network) – Architecture CNN performante pour la classification d’images 
+   https://arxiv.org/abs/1512.03385 
+   https://pytorch.org/vision/stable/models.html#id8 
+Fusion multimodale et modélisation 
+● scikit-learn – Pour les VotingClassifier, StackingClassifier, GridSearchCV, etc. 
+   https://scikit-learn.org/stable/ 
+● Hugging Face Transformers – Entraînement de modèles NLP de type BERT, CamemBERT, etc. 
+   https://huggingface.co/docs/transformers 
+● Ensembles (Voting, Stacking) – Techniques de fusion de modèles 
+   https://scikit-learn.org/stable/modules/ensemble.html 
+Rééquilibrage et Data Augmentation 
+● Imbalanced-learn (SMOTE, RandomOverSampler) 
+   https://imbalanced-learn.org/stable/ 
+● Albumentations – Bibliothèque d’augmentation d’images puissante 
+   https://albumentations.ai/ 
+ 
+Suivi et évaluation 
+● matplotlib / seaborn – Visualisation des matrices de confusion, learning curves 
+https://matplotlib.org/ 
+https://seaborn.pydata.org/ 
+● TensorBoard – Suivi des métriques d’entraînement pour les modèles deep learning 
+https://www.tensorflow.org/tensorboard
