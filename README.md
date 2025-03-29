@@ -75,13 +75,26 @@ Some models are hosted externally due to size constraints:
 
 ## Environment and Dependencies
 
-A `requirements.txt` file is provided at the root of the repository. It lists all required Python packages (e.g., scikit-learn, transformers, torch, spacy).
+To ensure full reproducibility and avoid version conflicts, the repository provides two tools to manage the Python environment:
 
-To replicate the environment and ensure compatibility, it is recommended to create a virtual environment and install dependencies with:
+requirements.txt lists all necessary Python packages (e.g., scikit-learn, transformers, torchvision, spacy, etc.).
 
-```bash
-pip install -r requirements.txt
+install.sh is a shell script that automates the installation process, including the setup of PyTorch and torchvision with CUDA 12.6 support for GPU acceleration
+
+Run the installation script to install all dependencies and PyTorch with GPU support:
+
 ```
+bash install.sh
+```
+
+This script will:
+
+Install all Python dependencies listed in requirements.txt
+
+Install torch and torchvision with the appropriate CUDA version for your environment (CUDA 12.6)
+
+If you're working in an environment without GPU or CUDA, you may adjust the installation accordingly inside install.sh.
+
 
 
 
