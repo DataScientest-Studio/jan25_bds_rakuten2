@@ -34,7 +34,13 @@ Several Jupyter notebooks were developed for data preprocessing:
 Modeling and evaluation notebooks:
 
 - `5-Modeling-Unimodal-Machine-Learning.ipynb`: Various classical machine learning approaches using different combinations of vectorization techniques (TF-IDF, FastText) and classifiers (Random Forest, Logistic Regression, LinearSVC).
+  
 - `6-Modeling-Unimodal-CAMEMBERT.ipynb`: Fine-tuning CamemBERT on textual data.
+- 7-Modeling-Unimodal-CNN.ipynb : to evaluate on images with a basic model
+- 8-Modeling-Unimodal-EfficientNet.ipynb : Fine-tuning on images
+- 9-Modeling-Unimodal-Mobilnetv.ipynb :Fine-tuning on images
+- 10-Modeling-Unimodal-VGG 16 : Fine-tuning on images
+- 
 - `y-Modeling-Unimodal-RESNET50.ipynb`: Training ResNet50 on product images.
 - `z-Modeling-Multimodal-Late-Fusion.ipynb`: Combining text and image models using Max Rule, Voting, and Stacking (best results with XGBoost).
 
@@ -121,13 +127,7 @@ Project Organization
     │   ├── features       <- Scripts to turn raw data into features for modeling
     │   │   └── build_features.py
     │   │
-    │   ├── models         <- Scripts to train models and then use trained models to make
-    │   │   │                 predictions
-    │   │   ├── predict_model.py
-    │   │   └── train_model.py
-    │   │
-    │   ├── visualization  <- Scripts to create exploratory and results oriented visualizations
-    │   │   └── visualize.py
+
 
 --------
 
