@@ -87,12 +87,6 @@ Run the installation script to install all dependencies and PyTorch with GPU sup
 bash install.sh
 ```
 
-This script will:
-
-Install all Python dependencies listed in requirements.txt
-
-Install torch and torchvision with the appropriate CUDA version for your environment (CUDA 12.6)
-
 If you're working in an environment without GPU or CUDA, you may adjust the installation accordingly inside install.sh.
 
 
