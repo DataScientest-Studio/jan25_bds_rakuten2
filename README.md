@@ -42,10 +42,7 @@ Modeling and evaluation notebooks:
 
 ## Model Demonstrations
 
-Each model is accompanied by a demo notebook that shows:
-
-- How to run manual predictions or batch inference
-- How to evaluate model performance on test sets
+Each model is accompanied by a demo notebook that can run manual predictions or batch inference
 
 Available demonstrations:
 - CamemBERT
@@ -84,7 +81,7 @@ To replicate the environment and ensure compatibility, it is recommended to crea
 
 ```bash
 pip install -r requirements.txt
-
+```
 
 
 
