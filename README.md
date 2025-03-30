@@ -126,6 +126,7 @@ Project Organization
     │   │
 
 ## Authors
+This project was proudly developed by our dedicated team:
 
 - [Rudy MEVIZOU](https://www.linkedin.com/in/rudy-mevizou-6054509b/)  
 - [Sofia BOUIZZOUL]
