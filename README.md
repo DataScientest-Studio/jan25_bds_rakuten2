@@ -130,7 +130,7 @@ This project was proudly developed by our dedicated team:
 
 - [Rudy MEVIZOU](https://www.linkedin.com/in/rudy-mevizou-6054509b/)  
 - [Sofia BOUIZZOUL]
-- [Mehdi MALHAS] 
+- [Mehdi MALHAS](https://www.linkedin.com/in/mehdi-malhas/)
 --------
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
