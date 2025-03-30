@@ -35,11 +35,11 @@ Modeling and evaluation notebooks:
 - `5-Modeling-Unimodal-Machine-Learning.ipynb`: Various classical machine learning approaches using different combinations of vectorization techniques (TF-IDF, FastText) and classifiers (Random Forest, Logistic Regression, LinearSVC)
 - `6-Modeling-Unimodal-CAMEMBERT.ipynb`: Fine-tuning CamemBERT on textual data
 - `7-Modeling-Unimodal-CNN.ipynb` : Evaluation on images with benchmark model
-- `8-Modeling-Unimodal-EfficientNet.ipynb` : Fine-tuning on images
-- `9-Modeling-Unimodal-Mobilnetv.ipynb` :Fine-tuning on images
-- `10-Modeling-Unimodal-VGG 16` : Fine-tuning on images
-- `11-Modeling-Unimodal-RESNET50.ipynb`: Training ResNet50 on product images.
-- `12-Modeling-Multimodal-Late-Fusion.ipynb`: Combining text and image models using Max Rule, Voting, and Stacking (best results with XGBoost).
+- `8-Modeling-Unimodal-EfficientNet.ipynb` : Fine-tuning EfficientNet on product images
+- `9-Modeling-Unimodal-Mobilnetv.ipynb` :Fine-tuning Mobilnetv on product images
+- `10-Modeling-Unimodal-VGG 16` : Fine-tuning VGG 16 on on product images
+- `11-Modeling-Unimodal-RESNET50.ipynb`: Fine-tuning ResNet50 on product images
+- `12-Modeling-Multimodal-Late-Fusion.ipynb`: Combining text and image models using Max Rule, Voting, and Stacking (best results with XGBoost)
 
 ---
 
@@ -125,7 +125,11 @@ Project Organization
     │   │   └── build_features.py
     │   │
 
+## Authors
 
+- [Rudy MEVIZOU](https://www.linkedin.com/in/rudy-mevizou-6054509b/)  
+- [Sofia BOUIZZOUL]
+- [Mehdi MALHAS] 
 --------
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
