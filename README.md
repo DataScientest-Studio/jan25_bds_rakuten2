@@ -32,17 +32,14 @@ Several Jupyter notebooks were developed for data preprocessing:
 - `4-Data-Preprocessing-Images.ipynb`: Image enhancement, resizing, normalization.
 
 Modeling and evaluation notebooks:
-
-- `5-Modeling-Unimodal-Machine-Learning.ipynb`: Various classical machine learning approaches using different combinations of vectorization techniques (TF-IDF, FastText) and classifiers (Random Forest, Logistic Regression, LinearSVC).
-  
-- `6-Modeling-Unimodal-CAMEMBERT.ipynb`: Fine-tuning CamemBERT on textual data.
-- 7-Modeling-Unimodal-CNN.ipynb : to evaluate on images with a basic model
-- 8-Modeling-Unimodal-EfficientNet.ipynb : Fine-tuning on images
-- 9-Modeling-Unimodal-Mobilnetv.ipynb :Fine-tuning on images
-- 10-Modeling-Unimodal-VGG 16 : Fine-tuning on images
-- 
-- `y-Modeling-Unimodal-RESNET50.ipynb`: Training ResNet50 on product images.
-- `z-Modeling-Multimodal-Late-Fusion.ipynb`: Combining text and image models using Max Rule, Voting, and Stacking (best results with XGBoost).
+- `5-Modeling-Unimodal-Machine-Learning.ipynb`: Various classical machine learning approaches using different combinations of vectorization techniques (TF-IDF, FastText) and classifiers (Random Forest, Logistic Regression, LinearSVC)
+- `6-Modeling-Unimodal-CAMEMBERT.ipynb`: Fine-tuning CamemBERT on textual data
+- `7-Modeling-Unimodal-CNN.ipynb` : Evaluation on images with benchmark model
+- `8-Modeling-Unimodal-EfficientNet.ipynb` : Fine-tuning on images
+- `9-Modeling-Unimodal-Mobilnetv.ipynb` :Fine-tuning on images
+- `10-Modeling-Unimodal-VGG 16` : Fine-tuning on images
+- `11-Modeling-Unimodal-RESNET50.ipynb`: Training ResNet50 on product images.
+- `12-Modeling-Multimodal-Late-Fusion.ipynb`: Combining text and image models using Max Rule, Voting, and Stacking (best results with XGBoost).
 
 ---
 
